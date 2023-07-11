@@ -4,7 +4,7 @@
  <!-- About section -->
 
 ---
-✨ I'm a Machine Learning Engineer and a researcher, passionate about problem solving. I am alwys up for discussing new ideas and collaborating on projects in Quantum Computing, Natural Language Processing and Artificial Intelligence. When I'm not coding, you can find me geeking about Books and exploring nature through long walks.
+✨ I'm a Machine Learning Engineer and a researcher, passionate about problem solving. I am always up for discussing new ideas and collaborating on projects in Quantum Computing, Natural Language Processing and Artificial Intelligence. When I'm not coding, you can find me geeking about Books and exploring nature through long walks.
 
 <!-- Profile Views -->
 
